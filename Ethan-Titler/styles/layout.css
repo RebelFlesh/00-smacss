@@ -1,0 +1,44 @@
+nav, article, aside, footer section {
+  margin: 0 auto;
+  width: 900px;
+}
+
+nav {
+  margin-top: 25px;
+}
+
+#logo {
+  float: left;
+  padding-bottom: 25px;
+}
+
+#logo img {
+  float: left;
+}
+
+#slogan {
+  width: 250px;
+  padding-left: 55px;
+}
+
+nav ul {
+  float: right;
+}
+
+nav li {
+  float: left;
+  padding-right: 2px;
+}
+
+.date {
+  float: left;
+}
+
+aside {
+  padding-top: 30px;
+  padding-bottom: 60px
+}
+
+aside img {
+  float: left;
+}
